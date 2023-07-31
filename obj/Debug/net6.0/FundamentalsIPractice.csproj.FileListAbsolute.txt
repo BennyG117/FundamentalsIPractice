@@ -1,0 +1,15 @@
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/bin/Debug/net6.0/FundamentalsIPractice
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/bin/Debug/net6.0/FundamentalsIPractice.deps.json
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/bin/Debug/net6.0/FundamentalsIPractice.runtimeconfig.json
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/bin/Debug/net6.0/FundamentalsIPractice.dll
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/bin/Debug/net6.0/FundamentalsIPractice.pdb
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/obj/Debug/net6.0/FundamentalsIPractice.csproj.AssemblyReference.cache
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/obj/Debug/net6.0/FundamentalsIPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/obj/Debug/net6.0/FundamentalsIPractice.AssemblyInfoInputs.cache
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/obj/Debug/net6.0/FundamentalsIPractice.AssemblyInfo.cs
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/obj/Debug/net6.0/FundamentalsIPractice.csproj.CoreCompileInputs.cache
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/obj/Debug/net6.0/FundamentalsIPractice.dll
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/obj/Debug/net6.0/refint/FundamentalsIPractice.dll
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/obj/Debug/net6.0/FundamentalsIPractice.pdb
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/obj/Debug/net6.0/FundamentalsIPractice.genruntimeconfig.cache
+/Users/bengomez/Desktop/NewCode/C_SHARP/C_sharp_HW/C_sharp_Practice_HW/FundamentalsIPractice/obj/Debug/net6.0/ref/FundamentalsIPractice.dll
